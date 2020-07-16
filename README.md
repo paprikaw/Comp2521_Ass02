@@ -1,1 +1,1 @@
-This is the projects of assignment02 contructed by Louis-Xinran-Shangchen-Xu
+This is the project of assignment02 constructed by Louis-Xinran-Shangchen-Xu
